@@ -1,6 +1,6 @@
 ### Hi, I'm Priscilla 👋
 
-Senior Product Designer in Los Angeles. I design complex systems and build them in code.🔥
+Lately, I've been spending more time turning my designs into working code.🔥
 
 Most recently I designed and implemented an AI-assisted design-to-code workflow with Claude, shipping components to production during a Shoelace to Web Awesome migration.
 
