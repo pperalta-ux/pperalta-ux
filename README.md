@@ -7,4 +7,4 @@ Most recently I designed and implemented an AI-assisted design-to-code workflow 
 
 Nos Vemos! 👋
 
-🔗 [Portfolio](https://priscillaperalta.com) · [LinkedIn](https://www.linkedin.com/in/priscillatperalta/)
+🔗 [Portfolio](https://priscillaperalta.com) · [LinkedIn](https://www.linkedin.com/in/priscillatperalta/) · [Resume](https://priscillaperalta.com/assets/Priscilla%20Peralta%20-%20Resume.pdf)
